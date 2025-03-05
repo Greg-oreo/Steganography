@@ -9,6 +9,6 @@ stego.exe -hide -m messagefilename -c coverfilename -b 2 [-o optionalfile]
 
 extract data:
 
-stego.exe –extract –s -b 2 [-o ]
+stego.exe -extract -s -b 2 [-o ]
 
 -extract: Extract data -s : Stego image file -b : Bits per pixel -o : Optional output file
